@@ -1,0 +1,7 @@
+C:\Users\Krzysztof\source\repos\Euler9_Kwadraty\Euler9_Kwadraty\bin\Debug\Euler9_Kwadraty.exe.config
+C:\Users\Krzysztof\source\repos\Euler9_Kwadraty\Euler9_Kwadraty\bin\Debug\Euler9_Kwadraty.exe
+C:\Users\Krzysztof\source\repos\Euler9_Kwadraty\Euler9_Kwadraty\bin\Debug\Euler9_Kwadraty.pdb
+C:\Users\Krzysztof\source\repos\Euler9_Kwadraty\Euler9_Kwadraty\obj\Debug\Euler9_Kwadraty.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Euler9_Kwadraty\Euler9_Kwadraty\obj\Debug\Euler9_Kwadraty.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\source\repos\Euler9_Kwadraty\Euler9_Kwadraty\obj\Debug\Euler9_Kwadraty.exe
+C:\Users\Krzysztof\source\repos\Euler9_Kwadraty\Euler9_Kwadraty\obj\Debug\Euler9_Kwadraty.pdb

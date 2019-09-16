@@ -1,0 +1,7 @@
+C:\Users\Krzysztof\source\repos\Euler5_podzielnosc\Euler5_podzielnosc\bin\Debug\Euler5_podzielnosc.exe.config
+C:\Users\Krzysztof\source\repos\Euler5_podzielnosc\Euler5_podzielnosc\bin\Debug\Euler5_podzielnosc.exe
+C:\Users\Krzysztof\source\repos\Euler5_podzielnosc\Euler5_podzielnosc\bin\Debug\Euler5_podzielnosc.pdb
+C:\Users\Krzysztof\source\repos\Euler5_podzielnosc\Euler5_podzielnosc\obj\Debug\Euler5_podzielnosc.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Euler5_podzielnosc\Euler5_podzielnosc\obj\Debug\Euler5_podzielnosc.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\source\repos\Euler5_podzielnosc\Euler5_podzielnosc\obj\Debug\Euler5_podzielnosc.exe
+C:\Users\Krzysztof\source\repos\Euler5_podzielnosc\Euler5_podzielnosc\obj\Debug\Euler5_podzielnosc.pdb

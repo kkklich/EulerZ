@@ -1,0 +1,7 @@
+C:\Users\Krzysztof\source\repos\Euler11_diagonala\Euler11_diagonala\obj\Debug\Euler11_diagonala.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Euler11_diagonala\Euler11_diagonala\obj\Debug\Euler11_diagonala.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\source\repos\Euler11_diagonala\Euler11_diagonala\bin\Debug\Euler11_diagonala.exe.config
+C:\Users\Krzysztof\source\repos\Euler11_diagonala\Euler11_diagonala\bin\Debug\Euler11_diagonala.exe
+C:\Users\Krzysztof\source\repos\Euler11_diagonala\Euler11_diagonala\bin\Debug\Euler11_diagonala.pdb
+C:\Users\Krzysztof\source\repos\Euler11_diagonala\Euler11_diagonala\obj\Debug\Euler11_diagonala.exe
+C:\Users\Krzysztof\source\repos\Euler11_diagonala\Euler11_diagonala\obj\Debug\Euler11_diagonala.pdb

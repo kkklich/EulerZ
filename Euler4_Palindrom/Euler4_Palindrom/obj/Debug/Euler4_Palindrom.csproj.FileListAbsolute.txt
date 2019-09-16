@@ -1,0 +1,6 @@
+C:\Users\Krzysztof\source\repos\Euler4_Palindrom\Euler4_Palindrom\bin\Debug\Euler4_Palindrom.exe.config
+C:\Users\Krzysztof\source\repos\Euler4_Palindrom\Euler4_Palindrom\bin\Debug\Euler4_Palindrom.exe
+C:\Users\Krzysztof\source\repos\Euler4_Palindrom\Euler4_Palindrom\bin\Debug\Euler4_Palindrom.pdb
+C:\Users\Krzysztof\source\repos\Euler4_Palindrom\Euler4_Palindrom\obj\Debug\Euler4_Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\source\repos\Euler4_Palindrom\Euler4_Palindrom\obj\Debug\Euler4_Palindrom.exe
+C:\Users\Krzysztof\source\repos\Euler4_Palindrom\Euler4_Palindrom\obj\Debug\Euler4_Palindrom.pdb

@@ -1,0 +1,7 @@
+C:\Users\Krzysztof\source\repos\Euler3_liczbyPierwsze\Euler3_liczbyPierwsze\bin\Debug\Euler3_liczbyPierwsze.exe.config
+C:\Users\Krzysztof\source\repos\Euler3_liczbyPierwsze\Euler3_liczbyPierwsze\bin\Debug\Euler3_liczbyPierwsze.exe
+C:\Users\Krzysztof\source\repos\Euler3_liczbyPierwsze\Euler3_liczbyPierwsze\bin\Debug\Euler3_liczbyPierwsze.pdb
+C:\Users\Krzysztof\source\repos\Euler3_liczbyPierwsze\Euler3_liczbyPierwsze\obj\Debug\Euler3_liczbyPierwsze.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Euler3_liczbyPierwsze\Euler3_liczbyPierwsze\obj\Debug\Euler3_liczbyPierwsze.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\source\repos\Euler3_liczbyPierwsze\Euler3_liczbyPierwsze\obj\Debug\Euler3_liczbyPierwsze.exe
+C:\Users\Krzysztof\source\repos\Euler3_liczbyPierwsze\Euler3_liczbyPierwsze\obj\Debug\Euler3_liczbyPierwsze.pdb

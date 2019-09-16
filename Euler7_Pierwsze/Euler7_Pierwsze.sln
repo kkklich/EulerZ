@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler7_Pierwsze", "Euler7_Pierwsze\Euler7_Pierwsze.csproj", "{226DF9E0-4B52-44C5-9BA0-74A6F032C3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226DF9E0-4B52-44C5-9BA0-74A6F032C3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226DF9E0-4B52-44C5-9BA0-74A6F032C3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226DF9E0-4B52-44C5-9BA0-74A6F032C3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226DF9E0-4B52-44C5-9BA0-74A6F032C3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A2DE04-B4B1-4A12-AB20-ACB2FFF7CA34}
+	EndGlobalSection
+EndGlobal

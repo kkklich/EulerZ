@@ -1,0 +1,7 @@
+C:\Users\Krzysztof\source\repos\Euler8_1000digits\Euler8_1000digits\bin\Debug\Euler8_1000digits.exe.config
+C:\Users\Krzysztof\source\repos\Euler8_1000digits\Euler8_1000digits\bin\Debug\Euler8_1000digits.exe
+C:\Users\Krzysztof\source\repos\Euler8_1000digits\Euler8_1000digits\bin\Debug\Euler8_1000digits.pdb
+C:\Users\Krzysztof\source\repos\Euler8_1000digits\Euler8_1000digits\obj\Debug\Euler8_1000digits.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Euler8_1000digits\Euler8_1000digits\obj\Debug\Euler8_1000digits.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\source\repos\Euler8_1000digits\Euler8_1000digits\obj\Debug\Euler8_1000digits.exe
+C:\Users\Krzysztof\source\repos\Euler8_1000digits\Euler8_1000digits\obj\Debug\Euler8_1000digits.pdb
